@@ -1,0 +1,15 @@
+{
+  "assumptions": {
+    "annual_priced_category_revenue_usd": 180000000,
+    "baseline_gross_margin_pct": 42.0,
+    "rollout_coverage_pct": 0.65
+  },
+  "result": {
+    "elasticity_model_accuracy_pct": 79.22,
+    "n_skus_priced": 10800,
+    "aggregate_margin_lift_pct": 10.75,
+    "baseline_annual_gross_margin_usd": 75600000.0,
+    "theoretical_annual_margin_uplift_usd": 8127000.0,
+    "realized_annual_margin_uplift_usd_at_65pct_rollout": 5282550.0
+  }
+}

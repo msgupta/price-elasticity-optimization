@@ -1,0 +1,15 @@
+{
+  "elasticity_model": {
+    "category_rank_correlation": 1.0,
+    "sku_directional_accuracy_%": 65.91,
+    "MAPE_%": 20.78,
+    "WAPE_%": 21.01,
+    "RMSE": 0.393,
+    "MAE": 0.343,
+    "R2": 0.6009,
+    "Accuracy_%_(100-MAPE)": 79.22
+  },
+  "n_skus_priced": 10800,
+  "aggregate_margin_lift_pct": 10.75,
+  "median_sku_profit_lift_pct": 10.54
+}
